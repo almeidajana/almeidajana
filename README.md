@@ -1,11 +1,11 @@
 ## Janaina Nogueira de Almeida 
 
-### *Aluna de programação da @digitalinnovationone e de Análise e Desenvolvimento de Sistemas  @anhanguera*
+### *Student at @digitalinnovationone and System Analyst and Developer at  @anhanguera*
 
-#### **Um pouco sobre mim**&#128154; &#128155;</p>
-##### Sempre fui uma aficcionada por tecnologia. Amo videogames, sou narradora de e-sports e também professora em uma escola pública. Sou boa em comunicação, gosto de aprender e quero crescer nesta carreira de tecnologia.
+#### **About me**&#128154; &#128155;</p>
+##### I'm a technology fan, I play video games, I casting on e-sports tournaments and I teach at a public school in Brazil. I'm in the process of transitioning my career to the technology field. I express myself well, I know how to communicate with different types of people and I'm ready to learn and contribute to the developer community.
 
-### *Me conheça melhor:*
+### *Get to know me better:*
 
 
    <code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janaina-almeida/)</code>
@@ -33,7 +33,7 @@
       </tr>
       <td>
 
-#### *Habilidades em desenvolvimento* &#129504;</p>
+#### *Developing skills* &#129504;</p>
  <code>![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)</code>
       </td>
     </tr>
@@ -43,14 +43,14 @@
         <code>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</code>
    
 
-#### *Sistemas operacionais* &#128187;</p>
+#### *Operating systems* &#128187;</p>
 <code>![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)</code>
       </td>
     </tr>
     <tr>
       <td>
 
-#### *Minha Contribuições* &#128187;</p>
+#### *My contributions* &#128187;</p>
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=almeidajana&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/almeidajana/dio-lab-open-source)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=almeidajana&repo=desafio-projeto-html-1-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/almeidajana/desafio-projeto-html-1-dio)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=almeidajana&repo=desafio-projeto-html-2-dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/almeidajana/desafio-projeto-html-2-dio)
@@ -59,7 +59,7 @@
 
 ![almeidajana GitHub stats](https://github-readme-stats.vercel.app/api?username=almeidajana&theme=jolly)
 
-#### *Linguagens mais utilizadas* &#128025; &#128008;</p>
+#### *Most used languages* &#128025; &#128008;</p>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=almeidajana&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
