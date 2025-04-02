@@ -1,6 +1,6 @@
 ## Janaina Nogueira de Almeida 
 
-### *Student at @digitalinnovationone and System Analyst and Developer at  @anhanguera*
+### *Student at @digitalinnovationone and System Analyst and Developer at  @anhanguera* College
 
 #### **About me**&#128154; &#128155;</p>
 ##### I'm a technology fan, I play video games, I'm caster on e-sports tournaments and I teach at a public school in Brazil. I'm in the process of transitioning my career to the technology field. I express myself well, I know how to communicate with different types of people and I'm ready to learn and contribute to the developer community.
