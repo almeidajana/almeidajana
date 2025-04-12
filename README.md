@@ -13,7 +13,7 @@
     </tr>
     <tr>
       <td>
-        <code>[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jananogueira_tv/)</code>
+        <code>[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jana.almeidadev/)</code>
       </td>
     </tr>
     <tr>
