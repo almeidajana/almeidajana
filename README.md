@@ -1,3 +1,4 @@
+![imagem de uma mulher em um computador em animação gerada por IA] (https://drive.google.com/drive/u/1/my-drive)
 ## Janaina Nogueira de Almeida 
 
 ### *Student at @digitalinnovationone and System Analyst and Developer at  @anhanguera* College
