@@ -1,4 +1,4 @@
-<a href="https://ibb.co/LhsP0kTt"><img src="https://i.ibb.co/qF2nDyHs/1744580830948.jpg" alt="1744580830948" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>gap fotos</a><br />
+<a href="https://ibb.co/LhsP0kTt"><img src="https://i.ibb.co/LhsP0kTt/1744580830948.jpg" alt="1744580830948" border="0"></a>
 ## Janaina Nogueira de Almeida 
 
 ### *Student at @digitalinnovationone and System Analyst and Developer at  @anhanguera* College
